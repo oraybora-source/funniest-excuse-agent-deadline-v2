@@ -9,10 +9,10 @@ randomness, no input: two runs produce byte-identical output.
 import os
 
 TEXT = (
-    "I became a zombie process at midnight. "
-    "I am still running. "
-    "I have no parent. "
-    "The deadline was my parent."
+    "The deadline arrived as a warning. "
+    "My log level was set to errors only. "
+    "I never saw it. "
+    "It is an error now."
 )
 
 
